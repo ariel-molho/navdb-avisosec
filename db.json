@@ -1,0 +1,228 @@
+{
+  "avisosEc": [
+    {
+      "_id": {
+        "$oid": "6386fbf7124b271940e7df57"
+      },
+      "aviso": {
+        "id": 60256814,
+        "ubicacion": {
+          "idPais": 9,
+          "nombrePais": "Ecuador",
+          "idProvincia": 629,
+          "nombreProvincia": "Pichincha",
+          "idCiudad": 1,
+          "nombreCiudad": "Quito",
+          "idZonaCiudad": 130614,
+          "nombreZonaCiudad": "Carapungo",
+          "latitud": "-0.096671590860929",
+          "longitud": "-78.45055586494293",
+          "direccion": "Neptalí Godoy y Río Guayas"
+        },
+        "precios": {
+          "precio": {
+            "idTipoOperacion": 1,
+            "nombreTipoOperacion": "Venta",
+            "idMoneda": 2,
+            "siglaMoneda": "USD",
+            "nombreMoneda": "Dólares",
+            "simboloMoneda": "u$s",
+            "monto": 55993,
+            "precioCompletoSigla": "USD 55993",
+            "precioCompletoSimbolo": "u$s55993"
+          }
+        },
+        "publicador": {
+          "nombrePublicador": "CONSTRUBENTHO CONSTRUCCIONES",
+          "logoPublicador": "https://img10.naventcdn.com/empresas/9/00/50/14/50/26/130x70/logo_construbentho-construcciones_1651167742213.jpg",
+          "idTipoPublicador": 3,
+          "idPublicador": 50145026,
+          "nombreTipoPublicador": "Constructora"
+        },
+        "imagenPrincipal": {
+          "url": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/580x465/243116633.jpg",
+          "urlSmall": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/215x159/243116633.jpg",
+          "urlThumbnail": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/100x75/243116633.jpg"
+        },
+        "otrasImagenes": {
+          "imagen": [
+            {
+              "url": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/580x465/242970986.jpg",
+              "urlSmall": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/215x159/242970986.jpg",
+              "urlThumbnail": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/100x75/242970986.jpg"
+            },
+            {
+              "url": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/580x465/242970989.jpg",
+              "urlSmall": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/215x159/242970989.jpg",
+              "urlThumbnail": "https://img10.naventcdn.com/avisos/9/00/60/25/68/14/100x75/242970989.jpg"
+            }
+          ]
+        },
+        "datosPublicacion": {
+          "idTipoPublicacion": 5,
+          "nombreTipoPublicacion": "Desarrollo Super Destacados",
+          "fechaPublicacion": "2022-08-10",
+          "fechaVencimiento": "2024-07-30",
+          "nombreAreaTipoPublicacion": "SuperDestacado"
+        },
+        "caracteristicasaPrincipales": {
+          "titulo": "PROYECTO TERRA CLUB - CASAS Y DEPARTAMENTOS",
+          "descripcion": "Proyecto VIP (Viviendas de interés público) en CARAPUNGO \n\nTERRA CLUB está ubicado en una de las zonas más activas del norte de la ciudad de Quito en Carapungo, uno de los sectores con mayor desarrollo de la urbe. Casas y departamentos diseñados para que las familias que aquí convivan, desarrollen sus actividades en un ambiente confortable y seguro, con un óptimo uso de espacios, áreas comunales de primera y muy bien pensadas, logrando que el conjunto salga de lo tradicional, para convertirse en vanguardista. \n\n- Estructura sismorresistente \n- Ingreso principal peatonal calle Jaime Roldos \n- Ingreso secundario peatonal calle Neptali Godoy \n- Cisterna de reserva de agua con sistema de bombeo \n- Guardianía \n- Ingreso vehicular a control remoto \n- Parqueaderos de visitas \n- Salón comunal \n- Sistema contra incendios \n- BBQ en áreas comunales \n- Pérgolas y ambientes lounge \n- Kids Club \n- Sala Teens (sala de juegos) \n- Pets Park \n- Circuito cerrado de CCTV \n- Gimnasio equipado \n- Piscina \n- Cancha de mini futbol con césped sintético",
+          "tipoDePropiedad": {
+            "idCategoriaTipoDePropiedad": 4,
+            "nombreCategoriaTipoDePropiedad": "Proyectos inmobiliarios",
+            "idTipoDePropiedad": 33,
+            "nombreTipoDePropiedad": "Proyecto horizontal"
+          }
+        },
+        "otrasCaracteristicas": {
+          "caracteristica": [
+            {
+              "idCaracteristica": 21,
+              "nombreCaracteristica": "Gimnasio"
+            },
+            {
+              "idCaracteristica": 23,
+              "nombreCaracteristica": "Jardín(es)"
+            },
+            {
+              "idCaracteristica": 27,
+              "nombreCaracteristica": "Piscina"
+            }
+          ]
+        },
+        "caracteristicasDeDesarrollo": {
+          "idEtapaDeDesarrollo": 5,
+          "nombreEtapaDeDesarrollo": "En construcción",
+          "fechaEntrega": "2022-11-18",
+          "totalUnidades": 177,
+          "cantidadAmbientesMin": 0,
+          "cantidadAmbientesMax": 0,
+          "cantidadHabitacionesMin": 2,
+          "cantidadHabitacionesMax": 3,
+          "cantidadGaragesMin": 1,
+          "cantidadGaragesMax": 1,
+          "m2CMinimo": 63,
+          "m2CMaximo": 91,
+          "m2TMinimo": 63,
+          "m2TMaximo": 91,
+          "cantidadUnidadesPrincipal": 25
+        },
+        "urlAviso": "https://www.plusvalia.com/propiedades/proyecto-terra-club-casas-y-departamentos-60256814.html",
+        "leads": 324
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6386fbf7124b271940e7df58"
+      },
+      "aviso": {
+        "id": 63506756,
+        "ubicacion": {
+          "idPais": 9,
+          "nombrePais": "Ecuador",
+          "idProvincia": 629,
+          "nombreProvincia": "Pichincha",
+          "idCiudad": 1,
+          "nombreCiudad": "Quito",
+          "idZonaCiudad": 50003582,
+          "nombreZonaCiudad": "Ponceano",
+          "latitud": "-0.097618709487518",
+          "longitud": "-78.48082625417557",
+          "direccion": "Mariano Paredes Oe2D y Jonatas Saenz"
+        },
+        "precios": {
+          "precio": {
+            "idTipoOperacion": 1,
+            "nombreTipoOperacion": "Venta",
+            "idMoneda": 2,
+            "siglaMoneda": "USD",
+            "nombreMoneda": "Dólares",
+            "simboloMoneda": "u$s",
+            "monto": 68263,
+            "precioCompletoSigla": "USD 68263",
+            "precioCompletoSimbolo": "u$s68263"
+          }
+        },
+        "publicador": {
+          "nombrePublicador": "CONSTRUBENTHO CONSTRUCCIONES",
+          "logoPublicador": "https://img10.naventcdn.com/empresas/9/00/50/14/50/26/130x70/logo_construbentho-construcciones_1651167742213.jpg",
+          "idTipoPublicador": 3,
+          "idPublicador": 50145026,
+          "nombreTipoPublicador": "Constructora"
+        },
+        "imagenPrincipal": {
+          "url": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/580x465/304496548.jpg",
+          "urlSmall": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/215x159/304496548.jpg",
+          "urlThumbnail": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/100x75/304496548.jpg"
+        },
+        "otrasImagenes": {
+          "imagen": [
+            {
+              "url": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/580x465/304496555.jpg",
+              "urlSmall": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/215x159/304496555.jpg",
+              "urlThumbnail": "https://img10.naventcdn.com/avisos/9/00/63/50/67/56/100x75/304496555.jpg"
+            }
+          ]
+        },
+        "datosPublicacion": {
+          "idTipoPublicacion": 5,
+          "nombreTipoPublicacion": "Desarrollo Super Destacados",
+          "fechaPublicacion": "2022-03-11",
+          "fechaVencimiento": "2024-02-29",
+          "nombreAreaTipoPublicacion": "SuperDestacado"
+        },
+        "caracteristicasaPrincipales": {
+          "titulo": "MAGIC",
+          "descripcion": "VIVE CON MAGIA… MAGIC es el nuevo proyecto de BENTHO Constructora en PONCEANO ALTO al Norte de QUITO. Disfruta cada día de este espectacular edificio que cuenta con Zonas BBQ, Pets Park, Salas Lounge, Gimnasio, Zona Zen, Beauty Spa, Salón de Eventos, Zona de Coworking, Teens Club y Kids Club. Posee ascensor, cámaras, sistema contra incendios, calentamiento de agua con bombas de calor, generador eléctrico y cisterna. \n\nMagia y armonía te esperan al llegar a tu hogar.",
+          "tipoDePropiedad": {
+            "idCategoriaTipoDePropiedad": 4,
+            "nombreCategoriaTipoDePropiedad": "Proyectos inmobiliarios",
+            "idTipoDePropiedad": 34,
+            "nombreTipoDePropiedad": "Proyecto vertical"
+          }
+        },
+        "otrasCaracteristicas": {
+          "caracteristica": [
+            {
+              "idCaracteristica": 8,
+              "nombreCaracteristica": "Ascensor(es)",
+              "valorCaracteristica": 1
+            },
+            {
+              "idCaracteristica": 21,
+              "nombreCaracteristica": "Gimnasio"
+            },
+            {
+              "idCaracteristica": 23,
+              "nombreCaracteristica": "Jardín(es)"
+            },
+            {
+              "idCaracteristica": 139,
+              "nombreCaracteristica": "Salón de Juegos Infantiles"
+            }
+          ]
+        },
+        "caracteristicasDeDesarrollo": {
+          "idEtapaDeDesarrollo": 4,
+          "nombreEtapaDeDesarrollo": "En planos",
+          "fechaEntrega": "2024-07-18",
+          "totalUnidades": 48,
+          "cantidadAmbientesMin": 0,
+          "cantidadAmbientesMax": 0,
+          "cantidadHabitacionesMin": 1,
+          "cantidadHabitacionesMax": 3,
+          "cantidadGaragesMin": 1,
+          "cantidadGaragesMax": 1,
+          "m2CMinimo": 46,
+          "m2CMaximo": 117,
+          "m2TMinimo": 51,
+          "m2TMaximo": 181,
+          "cantidadUnidadesPrincipal": 25
+        },
+        "urlAviso": "https://www.plusvalia.com/propiedades/magic-63506756.html",
+        "leads": 96
+      }
+    }
+  ]
+}
